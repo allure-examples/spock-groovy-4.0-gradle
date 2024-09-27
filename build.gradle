@@ -3,7 +3,7 @@ plugins {
 }
 
 wrapper {
-    gradleVersion = '8.6'
+    gradleVersion = '8.7'
 }
 
 repositories {
@@ -13,8 +13,8 @@ repositories {
 group = 'com.example.spock'
 version = '1.0-SNAPSHOT'
 
-def allureVersion = '2.25.0'
-def aspectJVersion = '1.9.21'
+def allureVersion = '2.26.0'
+def aspectJVersion = '1.9.22'
 def groovyVersion = '4.0.20'
 def spockVersion = '2.3-groovy-4.0'
 
